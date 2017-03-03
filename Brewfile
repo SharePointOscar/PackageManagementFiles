@@ -19,6 +19,8 @@ cask 'google-chrome'
 cask 'sublime-text'
 cask 'webstorm'
 cask 'sequel-pro'
+cask 'robomongo'
+cask 'mongodb'
 cask 'skype-for-business'
 
 mas 'Slack', id: 803453959
