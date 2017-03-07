@@ -5,6 +5,7 @@ brew 'node'
 brew 'npm'
 brew 'docker'
 brew 'docker-machine'
+brew 'docker-compose'
 brew 'antigen'
 
 cask 'chefdk' 
@@ -22,5 +23,6 @@ cask 'sequel-pro'
 cask 'robomongo'
 cask 'mongodb'
 cask 'skype-for-business'
+cask 'java'
 
 mas 'Slack', id: 803453959
