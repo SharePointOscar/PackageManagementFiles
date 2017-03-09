@@ -22,6 +22,6 @@ To manage my Gems I use RVM which is typical.  However, having a Gemfile to repl
 Within the directory where the Gemfile resides, run the following command
 
 ```shell
-brew bundle install
+bundler install
 ```
 ![alt text](GemfileRunBundler.png "The command to run for updating and installing Gems")
