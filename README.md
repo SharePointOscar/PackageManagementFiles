@@ -17,7 +17,7 @@ brew bundle install
 ![alt text](BrewBundleInstall.png "The command to run for updating and installing Casks")
 
 ###Gemfile
-To manage my Gems I use RVM which is typical.  However, having a Gemfile to replicate my Gems across development machines is a nice thing to have :)
+To manage my Gem dependencies I use RVM which is typical.  However, having a Gemfile to replicate my Gems across development machines is a nice thing to have :)
 
 Within the directory where the Gemfile resides, run the following command
 
@@ -25,3 +25,6 @@ Within the directory where the Gemfile resides, run the following command
 bundler install
 ```
 ![alt text](GemfileRunBundler.png "The command to run for updating and installing Gems")
+
+For more [Bundler info](http://bundler.io/v1.14/guides/using_bundler_in_application.html)
+
