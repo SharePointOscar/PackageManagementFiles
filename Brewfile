@@ -24,5 +24,6 @@ cask 'robomongo'
 cask 'mongodb'
 cask 'skype-for-business'
 cask 'java'
+cask 'snagit'
 
 mas 'Slack', id: 803453959
