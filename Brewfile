@@ -7,8 +7,9 @@ brew 'docker'
 brew 'docker-machine'
 brew 'docker-compose'
 brew 'antigen'
+brew 'packer'
 
-cask 'chefdk' 
+cask 'chefdk'
 cask 'virtualbox'
 cask 'vmware-fusion'
 cask 'vagrant'
@@ -25,6 +26,7 @@ cask 'sequel-pro'
 cask 'robomongo'
 cask 'mongodb'
 cask 'skype-for-business'
+cask 'sketch'
 cask 'java'
 
 mas 'Slack', id: 803453959
