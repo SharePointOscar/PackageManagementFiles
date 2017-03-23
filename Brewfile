@@ -8,6 +8,7 @@ brew 'docker-machine'
 brew 'docker-compose'
 brew 'antigen'
 brew 'packer'
+brew 'elasticsearch'
 
 cask 'chefdk'
 cask 'virtualbox'
