@@ -10,6 +10,7 @@ brew 'docker-machine-driver-xhyve'
 brew 'antigen'
 brew 'packer'
 brew 'elasticsearch'
+brew 'go'
 
 cask 'chefdk'
 cask 'virtualbox'
